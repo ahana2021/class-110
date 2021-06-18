@@ -1,0 +1,64 @@
+body{
+    font-family: 'Goblin One', cursive;
+    background-color: #5ffafa;
+}
+.header_div{
+    background-color: white;
+    color:#299900;
+    font-size: 35px;
+}
+.header_div img{
+    width:100px;
+
+}
+.main_div{
+    background-color:salmon;
+    padding:10px;
+    margin-top:15px;
+    border: solid 3px whitesmoke;
+
+}
+.main_div label{
+    background-color:#8f1abd;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 10px 18px violet;
+
+}
+#camera,#result{
+    border:solid 3px whitesmoke;
+    width:310;
+    height:300px;
+    box-shadow: 5px 10px 18px turquoise;
+}
+.main_div button{
+    border:solid 3px whitesmoke;
+    width:310;
+    font-size:20px;
+    box-shadow: 5px 10px 20px #e683a7;
+
+}
+ .footer_div{
+     margin-bottom:40px;
+     
+ }
+ .footer_div h4{
+     background-color: white;
+     border-radius:10px;
+     padding:8px;
+     box-shadow:5px 5px 18px white;
+     width:450px;
+ }
+ .footer_div img{
+     width:80px;
+ }
+ .copy_right_footer{
+     text-align:center;
+     background-color:thistle;
+     color:black;
+     width:100%;
+     bottom: 0;
+     position: fixed;
+     line-height:3;
+ }
